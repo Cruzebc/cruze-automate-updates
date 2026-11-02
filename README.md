@@ -10,7 +10,7 @@
 
 [**Download Latest APK**](https://github.com/Cruzebc/cruze-automate-updates/releases/latest/download/CruzeAutomate.apk)
 
-[Website](https://cruzeautomate.co.ke) · [GitHub Releases](https://github.com/Cruzebc/cruze-automate-updates/releases)
+[Website](https://cruze-automate-website.pages.dev/) · [GitHub Releases](https://github.com/Cruzebc/cruze-automate-updates/releases)
 
 </div>
 
