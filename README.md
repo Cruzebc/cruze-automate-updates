@@ -1,6 +1,4 @@
-<p align="center">
 # CRUZE AUTOMATE
-</p>
 
 <p align="center">
   <img src="assets/cruze-automate-logo.jpg" alt="Cruze Automate logo" width="220">
