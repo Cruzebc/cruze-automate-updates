@@ -8,7 +8,12 @@
   "signingCertificateSha256": "C4:A1:26:09:2B:9B:2B:EA:51:0D:57:D5:7B:D0:5E:7A:C9:B5:77:7A:85:57:87:F1:A1:DA:9B:04:8C:4C:33:EA",
   "releaseNotes": [
     "Cruze Automate version 1.2.9",
-    "Official signed application release"
+    "Official signed application release",
+    "Fixed slow USSD retries",
+    "Fixed offer timer not responding",
+    "Improved Advanced execution stability",
+    "Minor app bugs fixed",
+    "NICE SALE"
   ],
   "mandatory": false
 }
