@@ -1,3 +1,4 @@
+<p align="center">
 # CRUZE AUTOMATE
 
 <p align="center">
@@ -46,7 +47,7 @@ For version details and previous releases, visit the [GitHub Releases page](http
 
 - Platform: Android
 - Minimum Android version: Android 6.0 (API 23)
-- Application ID: `com.cruze.automate`
+  
 
 Some features require additional Android permissions, including Accessibility and SMS-related permissions. Review permission prompts before enabling them.
 
