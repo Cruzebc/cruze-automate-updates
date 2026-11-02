@@ -81,7 +81,7 @@ The latest release page provides the current APK and release information. Review
 
 For app support, announcements and official information, visit:
 
-- Website: https://cruzeautomate.co.ke
+- Website: https://cruze-automate-website.pages.dev/
 - Releases: https://github.com/Cruzebc/cruze-automate-updates/releases
 
 ---
