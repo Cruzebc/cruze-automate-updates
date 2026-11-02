@@ -1,0 +1,11 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkName": "CruzeAutomate.apk",
+  "downloadUrl": "",
+  "sha256": "",
+  "releaseNotes": [
+    "Initial update system setup"
+  ],
+  "mandatory": false
+}
