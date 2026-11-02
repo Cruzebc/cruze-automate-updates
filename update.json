@@ -4,7 +4,7 @@
   "packageName": "com.cruze.automate",
   "apkName": "CruzeAutomate.apk",
   "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.2.9/CruzeAutomate.apk",
-  "sha256": "8C3F73902436D93E30AA9D4EE0F936600EE7846A71CD9A2C038554FD664F4351",
+  "sha256": "C824927AA2BD29F74BF160DB5462AADEA8C42B6D74BF7A01471275A4281D971E",
   "signingCertificateSha256": "C4:A1:26:09:2B:9B:2B:EA:51:0D:57:D5:7B:D0:5E:7A:C9:B5:77:7A:85:57:87:F1:A1:DA:9B:04:8C:4C:33:EA",
   "releaseNotes": [
     "Cruze Automate version 1.2.9",
