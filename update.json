@@ -1,13 +1,13 @@
 {
-  "versionCode": 9,
-  "versionName": "1.2.7",
+  "versionCode": 10,
+  "versionName": "1.2.8",
   "packageName": "com.cruze.automate",
   "apkName": "CruzeAutomate.apk",
-  "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.2.7/CruzeAutomate.apk",
-  "sha256": "66DA599A93EFB03086A67940E3AC186FB434483BD010E3FEF522EF4807EB0D63",
+  "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.2.8/CruzeAutomate.apk",
+  "sha256": "B5D66FEF8F16B4AEB1591867A3780B60DB86C6587DEE4071525703FEB3E90D09",
   "signingCertificateSha256": "C4:A1:26:09:2B:9B:2B:EA:51:0D:57:D5:7B:D0:5E:7A:C9:B5:77:7A:85:57:87:F1:A1:DA:9B:04:8C:4C:33:EA",
   "releaseNotes": [
-    "Cruze Automate version 1.2.7",
+    "Cruze Automate version 1.2.8",
     "Official signed application release"
   ],
   "mandatory": false
