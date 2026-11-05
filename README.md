@@ -47,7 +47,9 @@ Get Cruze Automate
   Download the official Android APK and get started.
 </p>For previous versions and release information:
 
-"Explore All Releases →" (https://github.com/Cruzebc/cruze-automate-updates/releases)
+"Explore All Releases →"
+
+(https://github.com/Cruzebc/cruze-automate-updates/releases)
 
 Installation
 
@@ -81,7 +83,9 @@ Not every USSD workflow is guaranteed to work across all devices and networks.
 Official Links
 
 Resource| Link
-Official Website| "cruze-automate-website.pages.dev" (https://cruze-automate-website.pages.dev/)
+Official Website|
+
+"cruze-automate-website.pages.dev" (https://cruze-automate-website.pages.dev/)
 
 Security & Permissions
 
