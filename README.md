@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/platform-android-status.jpeg" alt="Android platform, Safaricom and Bingwa agents, active status and latest APK download" width="100%">
+  <img src="assets/platform-android-status.png" alt="Android platform, Safaricom and Bingwa agents, active status and latest APK download" width="100%">
 </p>
 
 **Smarter USSD automation. Easier transaction management.**
