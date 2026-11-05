@@ -82,8 +82,6 @@ Official Links
 
 Resource| Link
 Official Website| "cruze-automate-website.pages.dev" (https://cruze-automate-website.pages.dev/)
-Latest APK| "Download Cruze Automate" (https://github.com/Cruzebc/cruze-automate-updates/releases/latest/download/CruzeAutomate.apk)
-Release History| "GitHub Releases" (https://github.com/Cruzebc/cruze-automate-updates/releases)
 
 Security & Permissions
 
