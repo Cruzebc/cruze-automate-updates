@@ -49,7 +49,7 @@ Get Cruze Automate
 
 "Explore All Releases →"
 
-(https://github.com/Cruzebc/cruze-automate-updates/releases)
+(https://cruze-automate-website.pages.dev/)
 
 Installation
 
