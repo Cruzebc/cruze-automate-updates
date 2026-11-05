@@ -16,7 +16,7 @@ CRUZE AUTOMATE
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Minimum%20Android-6.0-5271FF?style=flat-square">
   <img src="https://img.shields.io/badge/Distribution-APK-5271FF?style=flat-square">
-</p>---
+</p>
 
 Overview
 
