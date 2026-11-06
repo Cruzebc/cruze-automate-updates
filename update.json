@@ -1,18 +1,18 @@
 {
-  "versionCode": 12,
-  "versionName": "1.3.0",
+  "versionCode": 13,
+  "versionName": "1.3.1",
   "packageName": "com.cruze.automate",
   "apkName": "CruzeAutomate.apk",
-  "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.3.0/CruzeAutomate.apk",
-  "sha256": "E1269DDC01B2DCB1784FE53B48055685C7C3453A5828E310D625D8517521A8BE",
+  "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.3.1/CruzeAutomate.apk",
+  "sha256": "B55DD1C8EB926CEBDDFF74E4741CDE1190C0D4352E8C560966C76FD58F531EEB",
   "signingCertificateSha256": "C4:A1:26:09:2B:9B:2B:EA:51:0D:57:D5:7B:D0:5E:7A:C9:B5:77:7A:85:57:87:F1:A1:DA:9B:04:8C:4C:33:EA",
   "releaseNotes": [
-    "Cruze Automate version 1.3.0",
+    "Cruze Automate version 1.3.1",
     "Official signed application release",
-    "Token promo feature added",
     "system stability improved",
-    "sms auto engage feature for already recommended fixed",
-    "NICE SALE, PUSHING BEYOND LIMITS"
+    "enhanced execution accuracy",
+    "customer care & support added",
+    "refer more agents to our app,get your free token"
   ],
   "mandatory": false
 }
