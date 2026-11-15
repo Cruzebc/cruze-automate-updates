@@ -1,19 +1,17 @@
 {
-  "versionCode": 14,
-  "versionName": "1.3.2",
+  "versionCode": 15,
+  "versionName": "1.3.3",
   "packageName": "com.cruze.automate",
   "apkName": "CruzeAutomate.apk",
-  "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.3.2/CruzeAutomate.apk",
-  "sha256": "6ED25C38642D93FACA9E8D9475D19F4996683C0012B065D1BE6FDF0A25E05074",
+  "downloadUrl": "https://github.com/Cruzebc/cruze-automate-updates/releases/download/v1.3.3/CruzeAutomate.apk",
+  "sha256": "A08397E6A994BBA40D8CB7A8A2B147EE525882037FC8680B92B8CDAB75B8A4F8",
   "signingCertificateSha256": "C4:A1:26:09:2B:9B:2B:EA:51:0D:57:D5:7B:D0:5E:7A:C9:B5:77:7A:85:57:87:F1:A1:DA:9B:04:8C:4C:33:EA",
   "releaseNotes": [
-    "Cruze Automate version 1.3.2",
+    "Cruze Automate version 1.3.3",
     "Official signed application release",
     "system stability enhanced",
-    "Dark and white theme added",
-    "more features added",
-    "sms verifer for all offers changed to automatic",
-    "happy surfing, we value your support"
+    "minor improvement",
+    "more feature added"
   ],
   "mandatory": false
 }
