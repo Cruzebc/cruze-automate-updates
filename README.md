@@ -1,7 +1,7 @@
 CRUZE AUTOMATE
 
 <p align="center">
-  <img src="assets/cruze-automate-logo.png" alt="Cruze Automate" width="190">
+  <img src="assets/cruze-automate-logo.png" alt="Cruze Automate" width="100">
 </p><h3 align="center">Intelligent Automation. Simplified Operations.</h3><p align="center">
   A smarter way to manage supported USSD workflows, transactions and offers — all from your Android device.
 </p><p align="center">
