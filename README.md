@@ -1,86 +1,52 @@
-# CRUZE AUTOMATE
+<div align="center">
 
-**Intelligent Automation. Simplified Operations.**
+# ⚡ CRUZE AUTOMATE
 
-A smarter way to manage supported USSD workflows, transactions and offers — all from your Android device.
+### Intelligent Automation. Simplified Operations.
 
----
+**The smarter way to run USSD workflows, transactions & offers — right from your Android device.**
 
-## Quick Links
+<br>
 
-- **Official Website:** https://cruze-automate-website.pages.dev/
-- **Download APK:** https://github.com/Cruzebc/cruze-automate-updates/releases/latest/download/CruzeAutomate.apk
-- **All Releases:** https://github.com/Cruzebc/cruze-automate-updates/releases
+[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD_LATEST_APK-2563EB?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Cruzebc/cruze-automate-updates/releases/latest/download/CruzeAutomate.apk)
+[![All Releases](https://img.shields.io/badge/All_Releases-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cruzebc/cruze-automate-updates/releases)
+[![Website](https://img.shields.io/badge/🌐_Official_Website-0ea5e9?style=for-the-badge)](https://cruze-automate-website.pages.dev/)
 
-**Platform:** Android (minimum Android 6.0, API 23) | **Distribution:** APK
+<br>
 
----
+![Platform](https://img.shields.io/badge/Platform-Android_6.0+-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Distribution](https://img.shields.io/badge/Distribution-APK-blueviolet?style=flat-square)
+![Permissions](https://img.shields.io/badge/Accessibility-SMS-orange?style=flat-square)
 
-## Overview
-
-Cruze Automate is an Android application designed to simplify supported USSD operations and transaction management.
-
-It combines workflow automation, transaction monitoring, and offer management into a single application, helping users handle supported mobile operations more efficiently.
+</div>
 
 ---
 
-## Features
+## 🚀 Overview
 
-| Feature | Description |
-|--------|-------------|
-| USSD Automation | Automates supported USSD workflows using Android Accessibility services. |
-| Training Mode | Helps configure supported USSD workflows. |
-| Execution Engine | Provides advanced execution and retry handling. |
-| Transaction Monitoring | Monitors M-Pesa SMS messages and tracks transactions. |
-| Dual-SIM Support | Supports dual-SIM operations on compatible devices. |
-| Offer Management | Provides tools for managing and transferring offers. |
-| App Updates | Supports application update functionality. |
-
-**Note:** Feature availability depends on device compatibility, Android permissions, SIM configuration, mobile network behaviour, and supported USSD services.
+**Cruze Automate** brings workflow automation, transaction monitoring, and offer management together in **one powerful Android app** — so you can handle supported mobile operations faster, with less effort.
 
 ---
 
-## Installation
+## ✨ Feature Highlights
 
-1. Download the latest APK using the official download link.
-2. Open the downloaded file on your Android device.
-3. Allow installation from your browser or file manager if Android requests it.
-4. Complete the installation.
-5. Open Cruze Automate and grant the permissions required by the features you intend to use.
+| 🧩 Feature | 🔍 What It Does |
+|-----------|-----------------|
+| 🤖 **USSD Automation** | Automates supported USSD workflows via Android Accessibility |
+| 🎓 **Training Mode** | Guided setup for supported USSD workflows |
+| ⚙️ **Execution Engine** | Advanced execution with intelligent retry handling |
+| 📊 **Transaction Monitoring** | Reads M-Pesa SMS & tracks every transaction |
+| 📱 **Dual-SIM Support** | Full dual-SIM operation on compatible devices |
+| 🎁 **Offer Management** | Manage & transfer offers with ease |
+| 🔄 **In-App Updates** | Stay current with built-in update support |
 
----
-
-## System Requirements
-
-| Requirement | Details |
-|------------|---------|
-| Platform | Android |
-| Minimum Version | Android 6.0 (API 23) |
-| Installation | Android APK |
-| Additional Permissions | Accessibility and SMS-related permissions, depending on features used |
+> ⚠️ Feature availability depends on device compatibility, Android permissions, SIM configuration, network behaviour, and supported USSD services.
 
 ---
 
-## Compatibility Notice
+## 📲 Get Started in 3 Steps
 
-Cruze Automate relies on Android system capabilities and supported mobile network services. Some operations may behave differently depending on:
-
-- Android version and device manufacturer
-- SIM configuration and network availability
-- Accessibility and other required permissions
-- The USSD service being accessed
-
-Not every USSD workflow is guaranteed to work across all devices and networks.
-
----
-
-## Security & Permissions
-
-- Download the application only through official Cruze Automate links.
-- Review permission requests before granting access.
-- Keep the application updated to access the latest available improvements.
-- Never share private signing keys, keystore files, passwords, or access tokens.
-
----
-
-© Cruze Automate · All rights reserved.
+```bash
+1️⃣  Download the latest APK
+2️⃣  Open it on your Android device
+3️⃣  Grant the permissions your features need
